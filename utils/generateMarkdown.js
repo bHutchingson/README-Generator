@@ -14,6 +14,39 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ${data.description}
+  
+  ## Table of Contents
+  
+  - [License](#license)
+  - [Technologies](#technologies)
+  - [Tests](#tests)
+  - [Dependencies](#dependencies)
+  - [Contributing](#contributing)
+  
+  ## Licenses
+
+    * ${data.license}
+  
+  ## Technologies
+
+    * Markdown
+    * Node.js 
+    * JavaScript
+  
+  
+  ## Tests
+
+    * To run a test, enter ${data.tests}
+  
+  ## Dependencies
+
+    * To install dependencies, enter ${data.dependencies}
+  
+  ## Contributing
+
+  GitHub: https://github.com/${data.username}
+  
 `;
 }
 
