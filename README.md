@@ -1,6 +1,6 @@
-# q
+# d
 
-  q
+  d
   
   ## Table of Contents
   
@@ -10,9 +10,10 @@
   - [Dependencies](#dependencies)
   - [Contributing](#contributing)
   
-  ## Licenses
 
+    ## Licenses
     * MIT
+    * [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Technologies
 
@@ -23,13 +24,13 @@
   
   ## Tests
 
-    * To run a test, enter q
+    * To run a test, enter d
   
   ## Dependencies
 
-    * To install dependencies, enter q
+    * To install dependencies, enter d
   
   ## Contributing
 
-  GitHub: https://github.com/q
+  GitHub: https://github.com/d
   
