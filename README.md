@@ -1,6 +1,6 @@
-# d
+# README Generator
 
-  d
+  generates a README based on user input
   
   ## Table of Contents
   
@@ -24,13 +24,17 @@
   
   ## Tests
 
-    * To run a test, enter d
+    * To run a test, enter node test
   
   ## Dependencies
 
-    * To install dependencies, enter d
+    * To install dependencies, enter node i
   
   ## Contributing
 
-  GitHub: https://github.com/d
+  GitHub: https://github.com/bHutchingson
+
+  ## Screencastify Link
+
+  https://drive.google.com/file/d/10gydI-PNknmLNvm67Lv2ZFoszerZovpb/view
   
